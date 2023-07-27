@@ -14,7 +14,7 @@ setup(
     description="VEdge detector model",
     author="Martin Rogers",
     author_email="marrog@bas.ac.uk",
-    url="https://github.com/MartinSJRogers/VEdge_Detector",
+    url="https://github.com/IFenton/VEdge_Detector",
     packages=find_packages(),
     install_requires=requirements,
     python_requires="~=3.7",
